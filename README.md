@@ -1,6 +1,13 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Ahmed Sobh
+#### I am a MERN Stack Developer
 I'm Ahmed from Egypt, and i'm a MERN stack developer with a good experience on working with nextjs (SSR)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobh7771)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: REACT / JS / NEXT / HTML / CSS / EXPRESS / GRAPHQL
+
+- 🌱 I’m currently learning React Native 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sobh7771)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-sobh-9a6b071a0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sobh7771)  
 
