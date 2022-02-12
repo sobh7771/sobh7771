@@ -4,7 +4,12 @@ I'm Ahmed from Egypt, and i'm a MERN stack developer with a good experience on w
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobh7771)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: REACT / JS / NEXT / HTML / CSS / EXPRESS / GRAPHQL
+### Skills and Experience
+- React
+- Next
+- HTML, CSS, JS
+- Node, Express
+- Graphql
 
 - 🌱 I’m currently learning React Native 
 
