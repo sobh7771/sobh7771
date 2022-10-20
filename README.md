@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed Sobh
-#### I am a MERN Stack Developer
-I'm Ahmed from Egypt, I'm a MERN stack developer with a good experience on working with nextjs (SSR)
+#### I am a Full Stack Developer
+I'm Ahmed from Egypt, I'm a Full stack developer with a good experience on working with nextjs (SSR)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobh7771)](https://github.com/anuraghazra/github-readme-stats)
 
