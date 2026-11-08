@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sobh</h1>
-<h3 align="center">Full Stack Developer from Egypt, passionate about code and programming, specializing in robust backend solutions and GraphQL expertise</h3>
+<h1 align="center">Ahmed Sobh</h1>
 
-- 🌱 Actively expanding my knowledge in **AWS**
-- 📫 Reach me at: **sobh7771@gmail.com**
-- ⚡ Committed to delivering **high-quality, maintainable, and efficient code**
+<p align="center"><b>Full-stack engineer at <a href="https://automizer.dev">Automizer</a>.</b><br/>Database to pixel, idea to production.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-sobh-9a6b071a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sobh-9a6b071a0" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://automizer.dev"><img src="https://img.shields.io/badge/automizer.dev-0071bc?style=for-the-badge&logoColor=white" alt="automizer.dev"/></a>
+  <a href="mailto:sobh@automizer.dev"><img src="https://img.shields.io/badge/sobh@automizer.dev-06223a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-sobh-9a6b071a0"><img src="https://img.shields.io/badge/LinkedIn-29abe2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+### Shipping
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| **[Neotrium](https://automizer.dev/projects/neotrium)** · *in progress* | Peak-performance health platform. DNA, blood and wearable data in; personalised meals, protocols and AI insights out. |
+| **[Zink Print](https://automizer.dev/projects/zink-print)** | Egypt's print-on-demand platform. Browser design studio, WebGL mockup engine, one-click Shopify publishing. |
+| **[SPACE](https://automizer.dev/projects/space)** | Operating system for a coworking space. Bookings, live front desk, café tabs, owner analytics. |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobh7771&show_icons=true&locale=en" alt="sobh7771" /></p>
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0071bc?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-0071bc?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-0071bc?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Router-0071bc?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/Node.js-06223a?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Bun-06223a?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
+  <img src="https://img.shields.io/badge/Hono-06223a?style=flat-square&logo=hono&logoColor=white" alt="Hono"/>
+  <img src="https://img.shields.io/badge/GraphQL-06223a?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-29abe2?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-29abe2?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Drizzle-29abe2?style=flat-square&logo=drizzle&logoColor=white" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Docker-29abe2?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-29abe2?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+</p>
