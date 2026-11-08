@@ -10,7 +10,7 @@
 
 ### Shipping
 
-| | |
+| Project | What it does |
 |---|---|
 | **[Neotrium](https://automizer.dev/projects/neotrium)** · *in progress* | Peak-performance health platform. DNA, blood and wearable data in; personalised meals, protocols and AI insights out. |
 | **[Zink Print](https://automizer.dev/projects/zink-print)** | Egypt's print-on-demand platform. Browser design studio, WebGL mockup engine, one-click Shopify publishing. |
